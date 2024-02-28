@@ -1,1 +1,11 @@
-kumpulan materi sib
+Kumpulan Materi MSIB 6
+- HTML dan CSS
+- Github
+- UI/UX
+- JavaScript
+- PHP
+- Laravel
+-MySQL DAtabase
+- Rest API
+- Consum API
+//git add untuk menambahkan file 
